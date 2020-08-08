@@ -2,7 +2,7 @@
 
 # Description
 
-This project was create to show how works NodeJs with Express.
+This project was created to show how works NodeJs with Express.
 
 ## Installing packages
 After that, please download all dependencies of the project
